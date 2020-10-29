@@ -1,2 +1,5 @@
 # first-ractNative
-Created with CodeSandbox
+
+## 目的
+
+reactnative を子供に教えるための雛形作成
